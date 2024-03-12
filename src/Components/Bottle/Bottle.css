@@ -1,0 +1,10 @@
+.bottle-cart{
+    border: 2px solid purple;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 15px;
+}
+
+.bottle-cart img {
+    width: 250px;
+}
